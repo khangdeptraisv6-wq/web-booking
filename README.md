@@ -1,4 +1,4 @@
-# 📅 WEB ĐẶT LỊCH 2026 - KHANG SUPREME
+# 📅 WEB ĐẶT LỊCH - Nhóm 11
 Dự án quản lý đặt lịch đa năng với giao diện Glassmorphism hiện đại.
 
 ## ✨ Tính năng nổi bật
